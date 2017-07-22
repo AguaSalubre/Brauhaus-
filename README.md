@@ -1,4 +1,4 @@
-# Layout purposes only
+# Brauhaus- Layout purposes only
 
 
 Parallax Template:
@@ -18,4 +18,4 @@ Lorem Ipsum Generators:
 
 https://theultralinx.com/2013/08/10-hilarious-lorem-ipsum-generators-web-designers/
 =======
-# Brauhaus-
+
